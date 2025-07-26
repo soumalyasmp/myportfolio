@@ -21,13 +21,13 @@ function App() {
             MERN Stack Developer | Graphic Designer | Problem Solver
           </p>
           <div className="social-links">
-            <a href="#" className="social-link">
+            <a href="https://github.com/soumalyasmp" className="social-link">
               <Github size={28} />
             </a>
-            <a href="#" className="social-link">
+            <a href="www.linkedin.com/in/soumalya-sinhamahapatra-822b73254" className="social-link">
               <Linkedin size={28} />
             </a>
-            <a href="mailto:contact@example.com" className="social-link">
+            <a href="soumalyasmp184@gmail.com" className="social-link">
               <Mail size={28} />
             </a>
           </div>
@@ -97,21 +97,18 @@ function App() {
               <h3 className="project-title">Alumni Tracking Platform</h3>
               <p className="project-description">
               </p>
-              <a href="#" className="project-link">
-                View Project <ExternalLink size={16} style={{marginLeft: '0.5rem'}} />
-              </a>
             </div>
           </div>
           <div className="project-card">
             <div 
               className="project-image" 
-              style={{backgroundImage: "url('https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&q=80')"}}
+              style={{backgroundImage: "url('./src/assets/Screenshot 2025-07-26 235418.png')"}}
             ></div>
             <div className="project-content">
-              <h3 className="project-title">Calender Integration and Task Management</h3>
+              <h3 className="project-title">Online Polling System</h3>
               <p className="project-description">
               </p>
-              <a href="#" className="project-link">
+              <a href="https://quickpoll-delta.vercel.app/" className="project-link">
                 View Project <ExternalLink size={16} style={{marginLeft: '0.5rem'}} />
               </a>
             </div>
@@ -119,13 +116,13 @@ function App() {
           <div className="project-card">
             <div 
               className="project-image" 
-              style={{backgroundImage: "url('https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&q=80')"}}
+              style={{backgroundImage: "url('./src/assets/Screenshot 2025-07-26 234713.png')"}}
             ></div>
             <div className="project-content">
               <h3 className="project-title">File Transfer System</h3>
               <p className="project-description">
               </p>
-              <a href="#" className="project-link">
+              <a href="https://transferanything.vercel.app/" className="project-link">
                 View Project <ExternalLink size={16} style={{marginLeft: '0.5rem'}} />
               </a>
             </div>
