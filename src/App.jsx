@@ -102,7 +102,7 @@ function App() {
           <div className="project-card">
             <div 
               className="project-image" 
-              style={{backgroundImage: "url('../public/Screenshot 2025-07-26 235418.png')"}}
+              style={{backgroundImage: "url('https://cdn.pixabay.com/photo/2018/03/19/09/25/feedback-3239454_1280.jpg')"}}
             ></div>
             <div className="project-content">
               <h3 className="project-title">Online Polling System</h3>
@@ -116,7 +116,7 @@ function App() {
           <div className="project-card">
             <div 
               className="project-image" 
-              style={{backgroundImage: "url('..public/Screenshot 2025-07-26 234713.png')"}}
+              style={{backgroundImage: "url('https://cdn.pixabay.com/photo/2016/04/24/14/19/paper-1349664_1280.png')"}}
             ></div>
             <div className="project-content">
               <h3 className="project-title">File Transfer System</h3>
